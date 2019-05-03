@@ -1,1 +1,6 @@
-[Individualized Font](./Individualized Font.md)
+| Name               |
+| ------------------ |
+| Proposal Creation  |
+| Proposal Read Only |
+| Submission         |
+|                    |

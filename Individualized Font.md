@@ -1,6 +1,6 @@
 用法：
 
-```
+```scss
 @font-face {
 	font-family: myFont;
 	src: url('*.ttf'), url(*.otf), url('*.eot');
